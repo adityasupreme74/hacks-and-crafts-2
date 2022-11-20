@@ -1,8 +1,6 @@
 # ConnectO
 
 ConnectO provides a platform to support amateur artists, online small business and content creators to showcase their talents, sell their art and craft and make a small profit out of it by letting the audience make generous contributions towards them.
-
-[![](https://img.shields.io/badge/APK-ConnectO-brightgreen?color=purple&style=for-the-badge)](https://drive.google.com/file/d/1JXxPOr40lmzdkGTT5bufVmg8VdcRAB5n/view?usp=sharing)
  
 ## Product Pitch
 
