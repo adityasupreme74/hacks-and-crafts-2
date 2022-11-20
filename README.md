@@ -6,7 +6,7 @@ ConnectO provides a platform to support amateur artists, online small business a
  
 ## Product Pitch
 
-[Presentation and Prototype Application Walkthrough]()
+[Presentation and Prototype Application Walkthrough](https://youtu.be/kYVw0-mLNiA)
 
 ## Why This ?
 
